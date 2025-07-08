@@ -1,0 +1,3 @@
+Person{name='Juan Pérez', age=25, address='Calle 123'}
+Estudiante{name='Ana Torres', age=20, address='Calle Luna 456', carrera='Ingeniería'}
+Profesor{name='Carlos Gómez', age=45, address='Avenida Sol 789', especialidad='Matemáticas'}
